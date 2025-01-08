@@ -6,4 +6,4 @@
 
 №Мой профиль на codewars
 
-[![codewars](https://www.codewars.com/users/username/Twoyasmerty/large)](https://www.codewars.com/users/username)  
+[![codewars](https://www.codewars.com/users/Twoyasmerty/badges/large)](https://www.codewars.com/users/Twoyasmerty) 
