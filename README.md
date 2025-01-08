@@ -4,6 +4,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coolhachker)](https://git.io/streak-stats)
 
-№Мой профиль на codewars
+#Мой профиль на codewars 
 
 [![codewars](https://www.codewars.com/users/Twoyasmerty/badges/large)](https://www.codewars.com/users/Twoyasmerty) 
