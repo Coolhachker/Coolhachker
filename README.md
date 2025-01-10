@@ -7,3 +7,10 @@
 <h1 align="center">Мой профиль на codewars</h1>
 
 [![codewars](https://www.codewars.com/users/Twoyasmerty/badges/large)](https://www.codewars.com/users/Twoyasmerty)
+
+Что я разрабатываю:
+1. Телеграм боты срдней и высокой сложности (webapp сервисы, платежные системы)
+2. Парсеры абсоллютно всех сайтов, кроме государственных
+3. Регеры аккаунтов
+4. бэкенды для сайтов на Django
+5. API на FastAPI
